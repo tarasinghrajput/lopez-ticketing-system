@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-server
+test-results
+playwright-report
+package-lock.json
+# Preserve the unreferenced all-NUL file found after an interrupted operation.
+server/jobs.ts

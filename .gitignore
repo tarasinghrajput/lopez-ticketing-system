@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Lopez local data and generated output
+dist-server/
+playwright-report/
+test-results/
+.data/
